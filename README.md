@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Pandey</h1>
 <h3 align="center">I am a Frontend Developer.Currently growing my hands on Backend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therohit777&label=Profile%20views&color=0e75b6&style=flat" alt="therohit777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rohit_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_dev7?logo=twitter&style=for-the-badge" alt="rohit_dev7" /></a> </p>
 
