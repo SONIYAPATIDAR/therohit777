@@ -26,7 +26,7 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 #### :computer: Programming languages and tools: 
  
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=therohit777&show_icons=true&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=therohit777&show_icons=true&hide_border=true" />
 <br>
 
 
