@@ -28,9 +28,11 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 <br>
 
 ---
-<br>
+
 #### :computer: Programming languages and tools: 
+
 <br>
+
 <div align="center" style="display:flex">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
