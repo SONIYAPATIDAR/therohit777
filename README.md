@@ -25,13 +25,11 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 
 #### :computer: Programming languages and tools: 
  
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=therohit777&show_icons=true&hide_border=true" />
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=therohit777&show_icons=true&hide_border=true" />
+<br>
 
 
-	
-
-</p>
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
