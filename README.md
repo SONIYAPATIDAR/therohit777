@@ -23,6 +23,8 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 - Exercising 3 days a week
 - Improving my resume with some education apart from university and by doing Internships.
 
+---
+
 #### :computer: Programming languages and tools: 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,7 +44,8 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 <img src="https://img.shields.io/badge/mongodb-CB3837?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
  </div>
- <br>
+ 
+ 
  ---
 
 
