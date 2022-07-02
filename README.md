@@ -23,6 +23,10 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 - Exercising 3 days a week
 - Improving my resume with some education apart from university and by doing Internships.
 
+<br>
+<br>
+<br>
+
 ---
 
 #### :computer: Programming languages and tools: 
