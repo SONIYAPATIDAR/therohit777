@@ -1,22 +1,10 @@
 ### Hi there 👋 
-### This is Rohit Pandey!
+### This is Fernando Roldán!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therohit777)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-pandey-8a6896174/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alpharohit777@gmail.com)
-
-
-<p align="left"> <a href="https://twitter.com/rohit_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_dev7?logo=twitter&style=for-the-badge" alt="rohit_dev7" /></a> </p>
-
-- 📫 How to reach me **alpharohit777@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rohit_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_dev7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/rohitpan7789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitpan7789" height="30" width="40" /></a>
-<a href="https://discord.gg/Rohit_pandey#9872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rohit_pandey#9872" height="30" width="40" /></a>
-</p>
+<br>
 
 
 ### Spotify Playing 🎧
