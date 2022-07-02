@@ -1,10 +1,10 @@
 ### Hi there 👋 
-### This is Fernando Roldán!
+### This is Rohit Pandey!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therohit777)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-pandey-8a6896174/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alpharohit777@gmail.com)
-<br>
+
 
 
 ### Spotify Playing 🎧
