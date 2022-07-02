@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohit Pandey</h1>
-<h3 align="center">I am a Frontend Developer.Currently growing my hands on Backend development.</h3>
+### Hi there 👋 
+### This is Fernando Roldán!
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therohit777)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-pandey-8a6896174/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alpharohit777@gmail.com)
 
 
 <p align="left"> <a href="https://twitter.com/rohit_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_dev7?logo=twitter&style=for-the-badge" alt="rohit_dev7" /></a> </p>
