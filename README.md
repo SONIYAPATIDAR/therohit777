@@ -15,7 +15,8 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 
 
 #### 🌱 Things I am currently working on: 
-- Doing my Computer Science undergrad Degree  
+- Doing my Computer Science Undergrad.  
+- Doing Internships to get Industrial Experiences.
 - Taking online courses on Backend-Development and Machine Learning 
 
 #### :muscle: Things I am challenging myself with:
