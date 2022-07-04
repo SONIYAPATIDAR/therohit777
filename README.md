@@ -21,14 +21,10 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least for few hours a day
 - Exercising 3 days a week
 - Improving my resume with some education apart from university and by doing Internships.
 
 <br>
-<br>
-
-
 ---
 
 #### :computer: Programming languages and tools: 
