@@ -20,11 +20,13 @@ Welcome to my Github page! I am Rohit Pandey and I am currently a Computer Scien
 - Taking online courses on Backend-Development and Machine Learning 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Exercising 3 days a week
+- Waking up earlier to make good use of the day.
+- Exercising 3 days a week.
+- Devoting few hours towards my own Development Projects.
 - Improving my resume with some education apart from university and by doing Internships.
 
 <br>
+
 ---
 
 #### :computer: Programming languages and tools: 
